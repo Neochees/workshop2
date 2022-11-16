@@ -1,0 +1,81 @@
+div{
+    border: solid black;
+}
+#container{
+    width: 500px;
+    height: 500px;
+    margin-top: 100px;
+    margin-left: 475px;
+    padding: 10px;
+}
+#antenepunt1{
+    height: 15px;
+    width: 15px;
+    background-color: black;
+    margin-left: 344px;
+    border-radius: 50%;
+}
+#antene1{
+    width: 2px;
+    height: 105px;
+    background-color: black;
+    margin-left: 350px;
+    margin-top: -5px;
+}
+#antenepunt2{
+    height: 15px;
+    width: 15px;
+    background-color: black;
+    border-radius: 50%;
+    margin-left: 445px;
+    margin-top: -90px;
+}
+#antene2{
+    width: 2px;
+    height: 105px;
+    background-color: black;
+    margin-left: 405px;
+    rotate: 45deg;  
+    margin-bottom: 	100px;
+    margin-top: -20px;
+}
+#tv{
+    height: 300px;
+    width: 400px;
+    border: solid 5px black;
+    background-color: black;
+    border-radius: 	5px;
+    margin-left: 25px;
+    margin-top: -120px;
+    padding: 20px;
+}
+#scherm{
+    height: 196px;
+    width: 350px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 5px;
+    border: solid gray 5px;
+    background-color: white;
+}
+#knop{
+    border: solid limegreen;
+    border-radius: 50%;
+    background-color: limegreen;
+    height: 30px;
+    width: 30px;
+    margin-right: 40px;
+    margin-top: 30px;
+    float: right;
+}
+#vhs{
+    background-color: gray;
+    height: 20px;
+    width: 100px;
+    margin-left: 145px;
+    margin-top: 90px;
+}
+#timeleft{
+    max-width: 350px;
+    width: 100%;
+}
